@@ -1,6 +1,6 @@
 # Projet CPP - Tower Defense
 
-## Présentation
+# Présentation
 
 Notre projet est un jeu de Tower Defense réalisé en C++ avec OpenGL. Le but du jeu est de placer des tours sur une carte pour empêcher des ennemis d'atteindre une base qu'il faut défendre. Les ennemis suivent un chemin prédéfini et les tours peuvent être placées sur des cases vides. Les tours tirent automatiquement sur les ennemis qui passent à leur portée.
 Les assets graphiques sont dans un style pixel art et le jeu est entièrement en 2D
